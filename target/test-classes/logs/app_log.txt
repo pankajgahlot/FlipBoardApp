@@ -1,0 +1,7 @@
+INFO    2021-05-26 22:54:24,724 [main] base.suiteBase  - Appium server Started
+INFO    2021-05-26 22:54:24,857 [main] base.suiteBase  - Android_Flipboard.propertiesProperty File Loaded
+INFO    2021-05-26 22:54:24,861 [main] base.suiteBase  - Loading Android Capabilities
+INFO    2021-05-26 22:54:42,489 [main] base.suiteBase  - call init
+INFO    2021-05-26 22:54:51,082 [main] base.suiteBase  - call quit
+INFO    2021-05-26 22:54:53,614 [main] base.suiteBase  - Testcase Excecution complted
+INFO    2021-05-26 22:54:53,666 [main] base.suiteBase  - Appium Server stoped
